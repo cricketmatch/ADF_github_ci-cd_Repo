@@ -1,0 +1,9 @@
+{
+	"name": "DataFactorysanket12",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0d44af3-8991-4f92-ab7d-8b3c3a84922b",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
